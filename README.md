@@ -1,6 +1,6 @@
 # ProyectoCapstone
 
-## Nombre:Sistema de monitoreo sobre el consumo energético en ordenadores por medio del IoT
+## Nombre: Sistema de monitoreo sobre el consumo energético en ordenadores por medio del IoT
 
 Hoy en día la tecnología es necesaria en el ambiente profesional y personal, tanto que la mayoría de los dispositivos necesitan estar conectados a una toma corriente o ser cargados, diferente al siglo  XIX en México donde solo se necesitaba la energía para iluminar las calles y viviendas en las noches. Actualmente hay muchos dispositivos que consumen energía eléctrica, lo que ha provocado que este consumo aumente y por tanto también los gastos por consumo eléctrico. 
 
