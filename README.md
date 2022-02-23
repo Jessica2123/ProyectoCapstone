@@ -1,7 +1,6 @@
 # ProyectoCapstone
-Proyecto Capstone para el Diplomado el Internet de las cosas
 
-Nombre: Sistema de monitoreo sobre el consumo energético en ordenadores por medio del IoT
+##**Nombre: Sistema de monitoreo sobre el consumo energético en ordenadores por medio del IoT
 
 Hoy en día la tecnología es necesaria en el ambiente profesional y personal, tanto que la mayoría de los dispositivos necesitan estar conectados a una toma corriente o ser cargados, diferente al siglo  XIX en México donde solo se necesitaba la energía para iluminar las calles y viviendas en las noches. Actualmente hay muchos dispositivos que consumen energía eléctrica, lo que ha provocado que este consumo aumente y por tanto también los gastos por consumo eléctrico. 
 
@@ -9,11 +8,11 @@ Los ordenadores se utilizan cotidianamente, entonces conocer su consumo de energ
 
 En este proyecto se pretende implementar un sistema de monitoreo sobre el consumo de energía en ordenadores haciendo uso de las herramientas y plataformas que nos proporciona el IoT.  La delimitación del ambiente es un conjunto de varias computadoras funcionando de manera simultánea, por medio de sensores se obtendrán mediciones de corriente-voltaje, con los cuales se realizarán algunos cálculos de potencia que permitirán  conocer el consumo energético en dichos equipos. 
 
-Objetivo general:
+**Objetivo general:
 
 Evaluar cuantitativamente el desempeño energético en ordenadores por medio del monitoreo de datos haciendo uso de plataformas y herramientas IoT.
 
-Objetivos específicos: 
+**Objetivos específicos: 
 
 Determinar el consumo energético en ordenadores a partir de las mediciones de voltaje y corriente almacenadas en una base de datos. 
 Analizar los datos de consumo energético por medio de cálculos y gráficas con las mediciones almacenadas en la base de datos. 
@@ -22,5 +21,6 @@ Monitorear recursos de hardware y desempeño energético en ordenadores a travé
 
 
 Se presenta el diagrama esquemático completo utilizado:
+
 
 
