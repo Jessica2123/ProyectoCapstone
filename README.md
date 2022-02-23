@@ -12,12 +12,15 @@ En este proyecto se pretende implementar un sistema de monitoreo sobre el consum
 Objetivo general:
 
 Evaluar cuantitativamente el desempeño energético en ordenadores por medio del monitoreo de datos haciendo uso de plataformas y herramientas IoT.
-Objetivos específicos: 
 
+Objetivos específicos: 
 
 Determinar el consumo energético en ordenadores a partir de las mediciones de voltaje y corriente almacenadas en una base de datos. 
 Analizar los datos de consumo energético por medio de cálculos y gráficas con las mediciones almacenadas en la base de datos. 
 Monitorear recursos de hardware y desempeño energético en ordenadores a través de Node Red utilizando paneles de control personalizados.
 
+
+
 Se presenta el diagrama esquemático completo utilizado:
+
 
