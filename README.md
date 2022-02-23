@@ -14,9 +14,9 @@ Evaluar cuantitativamente el desempeño energético en ordenadores por medio del
 
 ## Objetivos específicos:
 
-Determinar el consumo energético en ordenadores a partir de las mediciones de voltaje y corriente almacenadas en una base de datos. 
-Analizar los datos de consumo energético por medio de cálculos y gráficas con las mediciones almacenadas en la base de datos. 
-Monitorear recursos de hardware y desempeño energético en ordenadores a través de Node Red utilizando paneles de control personalizados.
+1. Determinar el consumo energético en ordenadores a partir de las mediciones de voltaje y corriente almacenadas en una base de datos. 
+2. Analizar los datos de consumo energético por medio de cálculos y gráficas con las mediciones almacenadas en la base de datos. 
+3. Monitorear recursos de hardware y desempeño energético en ordenadores a través de Node Red utilizando paneles de control personalizados.
 
 
 
