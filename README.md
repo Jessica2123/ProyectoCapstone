@@ -22,7 +22,7 @@ Evaluar cuantitativamente el desempeño energético en ordenadores por medio del
 
 Se presenta el diagrama esquemático completo utilizado:
 
-(https://drive.google.com/drive/folders/1OI0D4501TVA71a2hHwQXnFryEHYyelJP/Diagrama_esquematico_2.PNG)
+
 
 
 
